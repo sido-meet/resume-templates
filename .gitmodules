@@ -1,3 +1,6 @@
 [submodule "vibe-resume"]
 	path = vibe-resume
 	url = git@github.com:LiuMengxuan04/vibe-resume.git
+[submodule "lapiscv"]
+	path = lapiscv
+	url = git@github.com:BingyanStudio/LapisCV.git
