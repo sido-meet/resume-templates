@@ -4,3 +4,6 @@
 [submodule "lapiscv"]
 	path = lapiscv
 	url = git@github.com:BingyanStudio/LapisCV.git
+[submodule "awesome-cv"]
+	path = awesome-cv
+	url = git@github.com:posquit0/Awesome-CV.git
