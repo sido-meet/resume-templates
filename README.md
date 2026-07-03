@@ -9,6 +9,7 @@
 | `vibe-resume/` | HTML + CSS | 浏览器 / AI（HTML-first） | Chromium headless → PDF | MIT | [LiuMengxuan04/vibe-resume](https://github.com/LiuMengxuan04/vibe-resume) |
 | `lapiscv/` | Markdown + CSS | Typora / VSCode / Obsidian | 内置 PDF 导出 | MIT | [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) |
 | `awesome-cv/` | LaTeX | TeX 编辑器 / Overleaf | `latexmk` / Overleaf | **LPPL-1.3c（非 OSI）** ⚠️ | [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) |
+| `sb2nov-resume/` | LaTeX | TeX 编辑器 / Overleaf | `latexmk` / Overleaf | MIT | [sb2nov/resume](https://github.com/sb2nov/resume) |
 
 ## 添加模板的约定
 

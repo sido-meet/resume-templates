@@ -7,3 +7,6 @@
 [submodule "awesome-cv"]
 	path = awesome-cv
 	url = git@github.com:posquit0/Awesome-CV.git
+[submodule "sb2nov-resume"]
+	path = sb2nov-resume
+	url = git@github.com:sb2nov/resume.git
